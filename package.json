@@ -1,0 +1,20 @@
+{
+  "name": "nodegames2.0",
+  "version": "1.0.0",
+  "description": "\"Д/З\"",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon app.js",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "'https://github.com/m1tka09/NodeGames2.0.git'"
+  },
+  "author": "mitka09",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
